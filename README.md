@@ -174,3 +174,15 @@ Markdown format:
 ## 📑 Citation
 
 Please consider citing 📑 our papers if our repository is helpful to your work, thanks sincerely!
+```
+@misc{lin2025exploringevolutionphysicscognition,
+      title={Exploring the Evolution of Physics Cognition in Video Generation: A Survey}, 
+      author={Minghui Lin and Xiang Wang and Yishan Wang and Shu Wang and Fengqi Dai and Pengxiang Ding and Cunxiang Wang and Zhengrong Zuo and Nong Sang and Siteng Huang and Donglin Wang},
+      year={2025},
+      eprint={2503.21765},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2503.21765}, 
+}
+```
+
