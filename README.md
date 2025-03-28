@@ -1,6 +1,6 @@
 # Awesome-Physics-Cognition-based-Video-Generation
 
-This is a repository for organizing papers, codes, and other resources related to physics-grounded video generation. This repo is being actively updated, please stay tuned!
+This is a repository for organizing papers, codes, and other resources related to physics cognition-based video generation. This repo is being actively updated, please stay tuned!
 
 ## ⚡ Contributing
 
