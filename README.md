@@ -3,6 +3,8 @@
 🚀🚀🚀 This is a repository for organizing papers, codes, and other resources related to physics cognition-based video generation. This repo is being actively updated, please stay tuned!
 For more detailed information, please refer to our survey paper: [Exploring the Evolution of Physics Cognition in Video Generation: A Survey](https://arxiv.org/abs/2503.21765).
 
+This paper list covers **T2V, V2V, and dynamic 3D and 4D generation based on physics**, and includes some **world models and world simulators**.
+
 If you find this repository useful, please consider giving us a star 🌟 and a [cite](https://arxiv.org/abs/2503.21765).
 
 ## ⚡ Contributing
