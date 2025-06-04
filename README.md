@@ -23,6 +23,7 @@ Markdown format:
 
 - [⚡ Contributing](#-contributing)
 - [📖 Table of Contents](#-table-of-contents)
+  - [Workshops](#workshops)
   - [Surveys](#surveys)
   - [Basic Schematic Perception for Generation](#basic-schematic-perception-for-generation)
   - [Passive Cognition of Physical Knowledge for Generation](#passive-cognition-of-physical-knowledge-for-generation)
@@ -30,6 +31,11 @@ Markdown format:
   - [Benchmarks and Metrics](#benchmarks-and-metrics)
 - [♥️ Star History](#️-star-history)
 - [📑 Citation](#-citation)
+
+### Workshops
+| Title  | Website | Date|
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|[Building Physically Plausible World Models](https://physical-world-modeling.github.io/#call)|[![Website](https://img.shields.io/badge/Website-9cf)](https://physical-world-modeling.github.io/#call)|ICML 2025 Workshop, Vancouver Saturday, July 19 (Whole-Day Workshop)|
 
 ### Surveys
 |                                                                                                                                 Title                                                                                                                                 |                                         arXiv                                         |                                                                                   Github                                                                                   |                                                    WebSite                                                    |         Pub. & Date         |
