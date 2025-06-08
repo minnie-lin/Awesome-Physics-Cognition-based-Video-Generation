@@ -28,7 +28,7 @@ Markdown format:
   - [Basic Schematic Perception for Generation](#basic-schematic-perception-for-generation)
   - [Passive Cognition of Physical Knowledge for Generation](#passive-cognition-of-physical-knowledge-for-generation)
   - [Active Cognition for World Simulation](#active-cognition-for-world-simulation)
-  - [Benchmarks and Metrics](#benchmarks-and-metrics)
+  - [Datasets, Benchmarks and Metrics](#datasets-benchmarks-and-metrics)
 - [♥️ Star History](#️-star-history)
 - [📑 Citation](#-citation)
 
@@ -195,10 +195,11 @@ Markdown format:
 | [Gaia-1: A generative world model for autonomous driving](https://arxiv.org/abs/2309.17080) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.17080) |                              -                               |                             [![Website](https://img.shields.io/badge/Website-9cf)]( https://wayve.ai/thinking/introducing-gaia1/)                           |             Sep., 2023              |
 
 
-### Benchmarks and Metrics
+### Datasets, Benchmarks and Metrics
 
 |                            Title                             |                            arXiv                             |                            Github                            |                           Website                            | Pub. & Date |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------: |
+|[PhysGaia: A Physics-Aware Dataset of Multi-Body Interactions for Dynamic Novel View Synthesis](https://arxiv.org/abs/2506.02794)|[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.02794)|[![Star](https://img.shields.io/github/stars/mjmjeong/PhysGaia.svg?style=social&label=Star)](https://github.com/mjmjeong/PhysGaia)|[![Website](https://img.shields.io/badge/Website-9cf)](https://cvlab.snu.ac.kr/research/PhysGaia/)|Jun., 2025|
 |[Universal Visuo-Tactile Video Understanding for Embodied Interaction](https://arxiv.org/abs/2505.22566)|[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.22566)|-|-|May, 2025|
 |[T2VPhysBench: A First-Principles Benchmark for Physical Consistency in Text-to-Video Generation](https://arxiv.org/abs/2505.00337)|[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.00337)|-|-|May, 2025|
 |[Direct Motion Models for Assessing Generated Videos](https://arxiv.org/abs/2505.00209)|[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.00209)|[![Star](https://img.shields.io/github/stars/google-deepmind/tapnet.svg?style=social&label=Star)](https://github.com/google-deepmind/tapnet)|[![Website](https://img.shields.io/badge/Website-9cf)](https://trajan-paper.github.io/)|Apr., 2025|
