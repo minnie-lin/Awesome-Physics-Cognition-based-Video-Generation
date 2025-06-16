@@ -29,6 +29,7 @@ Markdown format:
   - [Passive Cognition of Physical Knowledge for Generation](#passive-cognition-of-physical-knowledge-for-generation)
   - [Active Cognition for World Simulation](#active-cognition-for-world-simulation)
   - [Datasets, Benchmarks and Metrics](#datasets-benchmarks-and-metrics)
+  - [VLMs, LLMs, MLLMs on Physical Understanding](#vlms-llms-mllms-on-physical-understanding)
 - [♥️ Star History](#️-star-history)
 - [📑 Citation](#-citation)
 
@@ -202,6 +203,7 @@ Markdown format:
 
 |                            Title                             |                            arXiv                             |                            Github                            |                           Website                            | Pub. & Date |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------: |
+|[IntPhys 2: Benchmarking Intuitive Physics Understanding In Complex Synthetic Environments](https://arxiv.org/abs/2506.09849)|[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.09849)|[![Star](https://img.shields.io/github/stars/facebookresearch/IntPhys2.svg?style=social&label=Star)](https://github.com/facebookresearch/IntPhys2)|[![Website](https://img.shields.io/badge/Website-9cf)](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)|Jun., 2025|
 |[PhysGaia: A Physics-Aware Dataset of Multi-Body Interactions for Dynamic Novel View Synthesis](https://arxiv.org/abs/2506.02794)|[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.02794)|[![Star](https://img.shields.io/github/stars/mjmjeong/PhysGaia.svg?style=social&label=Star)](https://github.com/mjmjeong/PhysGaia)|[![Website](https://img.shields.io/badge/Website-9cf)](https://cvlab.snu.ac.kr/research/PhysGaia/)|Jun., 2025|
 |[Seeing is Not Reasoning: MVPBench for Graph-based Evaluation of Multi-path Visual Physical CoT](https://arxiv.org/abs/2505.24182)|[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.24182)|[![Star](https://img.shields.io/github/stars/CSU-JPG/MVPBench.svg?style=social&label=Star)](https://github.com/CSU-JPG/MVPBench)|[![Website](https://img.shields.io/badge/Website-9cf)](https://csu-jpg.github.io/MVPBench/)|May, 2025|
 |[Universal Visuo-Tactile Video Understanding for Embodied Interaction](https://arxiv.org/abs/2505.22566)|[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.22566)|-|-|May, 2025|
@@ -230,7 +232,10 @@ Markdown format:
 | [Craft: A benchmark for causal reasoning about forces and interactions](https://arxiv.org/abs/2012.04293) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2012.04293) | [![Star](https://img.shields.io/github/stars/hucvl/craft.svg?style=social&label=Star)](https://github.com/hucvl/craft) | [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/craft-benchmark) |  ACL, 2022  |
 | [Physion: Evaluating physical prediction from vision in humans and machines](https://arxiv.org/abs/2106.08261) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2106.08261) | [![Star](https://img.shields.io/github/stars/cogtoolslab/physics-benchmarking-neurips2021.svg?style=social&label=Star)](https://github.com/cogtoolslab/physics-benchmarking-neurips2021) | [![Website](https://img.shields.io/badge/Website-9cf)](https://physion-benchmark.github.io/) | Nips, 2021  |
 
-
+### VLMs, LLMs, MLLMs on Physical Understanding
+|                            Title                             |                            arXiv                             |                            Github                            |                           Website                            | Pub. & Date |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------: |
+|[PhyBlock: A Progressive Benchmark for Physical Understanding and Planning via 3D Block Assembly](https://arxiv.org/abs/2506.08708)|[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.08708)|[![Star](https://img.shields.io/github/stars/PhyBlock/PhyBlock.svg?style=social&label=Star)](https://github.com/PhyBlock/PhyBlock)|[![Website](https://img.shields.io/badge/Website-9cf)](https://phyblock.github.io/)|Jun., 2025|
 
 
 ## ♥️ Star History
