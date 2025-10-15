@@ -235,6 +235,7 @@ Markdown format:
 
 |                            Title                             |                            arXiv                             |                            Github                            |                           Website                            | Pub. & Date |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------: |
+|[LikePhys: Evaluating Intuitive Physics Understanding in Video Diffusion Models via Likelihood Preference](https://arxiv.org/abs/2510.11512)|[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.11512)|[![Star](https://img.shields.io/github/stars/YuanJianhao508/LikePhys.svg?style=social&label=Star)](https://github.com/YuanJianhao508/LikePhys)|-|Oct., 2025|
 |[CoPhyBench: Benchmarking Physical Reasoning from Conditional Video Observation](https://openreview.net/forum?id=rDiKG1xlDV)|-|-|-|Oct., 2025|
 |[Cosmos-Eval: Towards Explainable Evaluation of Physics and Semantics in Text-to-Video Models](https://openreview.net/forum?id=KdYKSOY9MP)|-|-|-|Oct., 2025|
 |[VideoVerse: How Far is Your T2V Generator from a World Model?](https://www.arxiv.org/abs/2510.08398)|[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2510.08398)|-|[![Website](https://img.shields.io/badge/Website-9cf)](https://www.naptmn.cn/Homepage_of_VideoVerse/)|Oct., 2025|
