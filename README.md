@@ -203,6 +203,7 @@ Markdown format:
 ### Active Cognition for World Simulation
 |                            Title                             |                            arXiv                             |                            Github                            |                           WebSite                            |             Pub. & Date             |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------------------------------: |
+|ABot-PhysWorld|-|[![Star](https://img.shields.io/github/stars/amap-cvlab/ABot-PhysWorld.svg?style=social&label=Star)](https://github.com/amap-cvlab/ABot-PhysWorld?tab=readme-ov-file)|-|Mar., 2026|
 |[Can vision language models learn intuitive physics from interaction?](https://arxiv.org/abs/2602.06033)|[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.06033)|-|-|Feb., 2026|
 |[Inference-time Physics Alignment of Video Generative Models with Latent World Models](https://arxiv.org/abs/2601.10553)|[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.10553)|-|-|PhysicsIQ Challenge, ICCV 2025|
 |[PhysRVG: Physics-Aware Unified Reinforcement Learning for Video Generative Models](https://www.arxiv.org/abs/2601.11087)|[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2601.11087)|-|-|Jan., 2026|
