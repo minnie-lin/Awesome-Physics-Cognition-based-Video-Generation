@@ -208,7 +208,7 @@ Markdown format:
 ### Active Cognition for World Simulation
 |                            Title                             |                            arXiv                             |                            Github                            |                           WebSite                            |             Pub. & Date             |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------------------------------: |
-[|PhyPrompt: RL-based Prompt Refinement for Physically Plausible Text-to-Video Generation](https://arxiv.org/abs/2603.03505)|[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.03505)|-|-|Mar., 2026|
+|[PhyPrompt: RL-based Prompt Refinement for Physically Plausible Text-to-Video Generation](https://arxiv.org/abs/2603.03505)|[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.03505)|-|-|Mar., 2026|
 |ABot-PhysWorld|-|[![Star](https://img.shields.io/github/stars/amap-cvlab/ABot-PhysWorld.svg?style=social&label=Star)](https://github.com/amap-cvlab/ABot-PhysWorld?tab=readme-ov-file)|-|Mar., 2026|
 |[Can vision language models learn intuitive physics from interaction?](https://arxiv.org/abs/2602.06033)|[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.06033)|-|-|Feb., 2026|
 |[Inference-time Physics Alignment of Video Generative Models with Latent World Models](https://arxiv.org/abs/2601.10553)|[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.10553)|-|-|PhysicsIQ Challenge, ICCV 2025|
